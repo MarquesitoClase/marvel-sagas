@@ -1,6 +1,6 @@
 export default function Batman() {
   return (
-    <div classname="batman">
+    <div className="batman card">
       <h2>Heroe name:</h2>
       <p>Batman</p>
       <h2>Truly name:</h2>

@@ -1,6 +1,6 @@
 export default function Hulk() {
   return (
-    <div className="hulk">
+    <div className="hulk card">
       <h2>Hero name:</h2>
       <p>Hulk</p>
       <h2>Real name:</h2>
