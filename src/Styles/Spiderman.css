@@ -1,0 +1,17 @@
+.spiderman {
+    background: linear-gradient(135deg, #e10600 0%, #0047ab 100%);
+    border: 2px solid black;
+    border-radius: 8px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.spiderman h1,
+.spiderman h2,
+.spiderman h3,
+.spiderman h4,
+.spiderman p {
+    color: red;
+}

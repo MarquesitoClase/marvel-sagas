@@ -1,0 +1,18 @@
+.ironman {
+    background: linear-gradient(135deg, #991111 0%, orange 100%);
+    border: 2px solid black;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.ironman h1,
+.ironman h2,
+.ironman h3,
+.ironman h4,
+.ironman p {
+    color: rgb(78, 56, 14);
+}
+

@@ -1,0 +1,17 @@
+.aquaman {
+    background: linear-gradient(135deg, #0077b6 0%, #00b4d8 100%);
+    border: 2px solid black;
+    border-radius: 8px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.aquaman h1,
+.aquaman h2,
+.aquaman h3,
+.aquaman h4,
+.aquaman p {
+    color: #ffd60a;
+}

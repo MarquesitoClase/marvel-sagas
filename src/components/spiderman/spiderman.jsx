@@ -8,8 +8,8 @@ export default function Spiderman() {
       <h2>Powers:</h2>
       <ul>
         <li>Wall-crawling</li>
-        <li>Superhuman strength and agility</li>
-        <li>Spider-sense (precognition)</li>
+        <li>Superhuman agility</li>
+        <li>Spider-sense</li>
       </ul>
     </div>
   );

@@ -1,7 +1,17 @@
-*{
-    border:1px solid yellow;
-    background-color: black;
+.batman {
+    background: linear-gradient(135deg, #0d0d0d 0%, #1c1c1c 100%);
+    border: 2px solid black;
+    border-radius: 8px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
 }
-h1 h2 h3 h4 p{
-    color: yellow;
+
+.batman h1,
+.batman h2,
+.batman h3,
+.batman h4,
+.batman p {
+    color: #f5c518;
 }

@@ -1,18 +1,23 @@
 import Batman from "./components/Batman/Batman.jsx";
-import Hulk from "./components/Hulk/Hulk.jsx";
-import Spiderman from "./components/Spiderman/Spiderman.jsx";
+import Aquaman from "./components/Aquaman/Aquaman.jsx";
+import Spiderman from "./components/spiderman/spiderman.jsx";
+import Hulk from "./components/hulk/hulk.jsx";
+import Ironman from "./components/Ironman/Ironman.jsx";
 import "./Styles/Batman.css";
 import "./Styles/Hulk.css";
 import "./Styles/Spiderman.css";
+import "./Styles/Aquaman.css";
+import "./Styles/Ironman.css";
 import "./Styles/Card.css";
 
-//Son marvel y el caballero negro de DC aunque se llame así el proyecto
 function App() {
   return (
     <div>
       <Batman />
-      <Hulk />
       <Spiderman />
+      <Hulk />
+      <Aquaman />
+      <Ironman />
     </div>
   );
 }
